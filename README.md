@@ -1,7 +1,5 @@
 # uc-Berkeley-AI-P1
 
-Certainly! Here's an expanded version of the README file that includes more detailed information about the project itself:
-
 # Pacman AI Projects - Search Algorithms and Heuristics
 
 Welcome to the Pacman AI Projects repository! This project is an interactive and educational exploration of artificial intelligence concepts through the lens of the classic arcade game, Pacman. In this repository, you'll find a hands-on experience of implementing various search algorithms and heuristic functions to control the behavior of the Pacman agent within a maze-like environment. By completing this project, you'll gain a deeper understanding of AI techniques, algorithmic problem-solving, and the practical application of intelligent agents.
